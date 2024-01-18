@@ -11,7 +11,7 @@ publish_to: none
 
 dependencies:
   charts_common:
-    path: ./charts_common
+     path: charts_common
   collection: ^1.14.5
   flutter:
     sdk: flutter
